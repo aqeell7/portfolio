@@ -1,5 +1,6 @@
 import { Navbar } from "@/components/Navbar";
 import { Hero } from "@/components/Hero";
+import { CurrentlyBuilding } from "@/components/CurrentlyBuilding";
 import { GitHubGraph } from "@/components/GitHubGraph";
 import { ProjectGrid } from "@/components/ProjectGrid";
 import { AboutSection } from "@/components/AboutSection";
@@ -11,6 +12,7 @@ export default function Home() {
       <Navbar />
       <div className="max-w-3xl mx-auto w-full">
         <Hero />
+        <CurrentlyBuilding />
         <ProjectGrid />
         <GitHubGraph />
         <AboutSection />
