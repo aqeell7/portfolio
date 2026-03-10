@@ -15,19 +15,19 @@ export const portfolioData = {
   extracurricular: "Volunteered 350 hours with the Cognizant Outreach Program, India.",
   projects: [
     {
-      title: "Financial Research Tool",
-      description: "A financial data analysis and research application. Actively developing features for data visualization and tracking.",
-      techStack: ["React", "TypeScript", "Tailwind CSS"],
-      image: "/projects/financial-tool-dashboard.png",
-      githubLink: "https://github.com/aqeell7/financial-research-tool",
-      liveLink: "",
-    },
-    {
       title: "Uptime Monitor",
       description: "Built a real-time monitoring dashboard tracking website status and response times with automated health checks using Node-Cron and instant Socket.io updates. Implemented JWT authentication and bcrypt hashing.",
       techStack: ["MERN Stack", "Socket.io", "Node-Cron", "JWT"],
-      image: "/projects/uptime-monitor.png",
+      image: "/projects/uptime-monitor-dash-1.png",
       githubLink: "https://github.com/aqeell7/uptime-monitor",
+      liveLink: "",
+    },
+    {
+      title: "Financial Research Tool",
+      description: "A financial data analysis and research application. Actively developing features for data visualization and tracking.",
+      techStack: ["React", "TypeScript", "Tailwind CSS"],
+      image: "/projects/Financial-research-tool-1.png",
+      githubLink: "https://github.com/aqeell7/financial-research-tool",
       liveLink: "",
     },
     {
