@@ -42,7 +42,7 @@ export const portfolioData = {
       title: "Scalable Task Management API",
       description: "Built a containerized RESTful API with TypeScript, implementing Controller-Service architecture and Redis caching to reduce MongoDB query load. Engineered a CI/CD pipeline achieving 80% code coverage.",
       techStack: ["Node.js", "Express", "TypeScript", "MongoDB", "Redis", "Docker", "Jest"],
-      image: "/projects/task-tracker.png ",
+      image: "/projects/task-tracker.png",
       githubLink: "https://github.com/aqeell7/mini-task-tracker",
       liveLink: "",
     },
