@@ -20,7 +20,7 @@ export const portfolioData = {
       techStack: ["MERN Stack", "Socket.io", "Node-Cron", "JWT"],
       image: "/projects/uptime-monitor-dash-1.png",
       githubLink: "https://github.com/aqeell7/uptime-monitor",
-      liveLink: "",
+      liveLink: "https://monitor.aqeelahmed.co.in/",
     },
     {
       title: "Financial Research Tool",
@@ -28,7 +28,7 @@ export const portfolioData = {
       techStack: ["React", "TypeScript", "Tailwind CSS"],
       image: "/projects/Financial-research-tool-1.png",
       githubLink: "https://github.com/aqeell7/financial-research-tool",
-      liveLink: "",
+      liveLink: "https://financial-research-tool-eight.vercel.app/",
     },
     {
       title: "100xverifier",

@@ -60,7 +60,7 @@ export function GitHubGraph() {
                                 }}
                             />
                         ) : (
-                            <div className="h-[150px] w-full animate-pulse bg-muted rounded-md" />
+                            <div className="h-37.5 w-full animate-pulse bg-muted rounded-md" />
                         )}
                     </div>
                 </div>
